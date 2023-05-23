@@ -1,3 +1,3 @@
 # Dubem Obinna-Esiowu's Resume
 
-I built a CV using only HTML 
+I built a CV using only HTML5
